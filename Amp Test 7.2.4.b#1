@@ -110,7 +110,6 @@
 <hole x="3.175" y="60.325" drill="3.302"/>
 <hole x="60.325" y="3.175" drill="3.302"/>
 <hole x="60.2074" y="60.1406" drill="3.302"/>
-<text x="37" y="59" size="2.5" layer="1" font="vector" ratio="12" align="center">IKE AMP</text>
 </plain>
 <libraries>
 <library name="ERIC">
